@@ -1,6 +1,6 @@
 # fazan
 
-Pentru a realiza acest joc am folosit o multime(set) pentru a retine toate cuvintele. La inceputul jocului se alege nivelul de dificultate al calculatorului (easy, medium, hard), iar cuvintele pentru categoria aleasa se adauga dintr-un fisier instr-un arbore binar de balansare, am facut 3 fisiere pentru fiecare nivel de dificultate.
+Pentru a realiza acest joc am folosit o multime(set) pentru a retine toate cuvintele. La inceputul jocului se alege nivelul de dificultate al calculatorului (easy, medium, hard), iar cuvintele pentru categoria aleasa se adauga dintr-un fisier intr-un arbore binar de balansare, am facut 3 fisiere pentru fiecare nivel de dificultate.
 <p>Programul se realizeaza in modul urmator:</p>
 <ul>
  <li>1. Se da un cuvant de la tastatura. In caz ca nu exista cuvantul in multimea de cuvinte atunci se cere sa se dea un alt cuvant.

@@ -15,5 +15,5 @@ Pentru a realiza acest joc am folosit o multime(set) pentru a retine toate cuvin
   </ul>
 <li>Daca nu exista un cuvant care sa respecte cerintele din lista de cuvinte din arborele binar de balansare(level) atunci computer este 'f' sau 'fa' etc. si se afiseaza pe ecran ce este computerul si se reia de la punctul 1) daca calculatoul nu este 'fazan'
   </ul>
- <li>La final se afiseaza cine a castigat
+ <li>3.La final se afiseaza cine a castigat
  </ul>

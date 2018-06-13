@@ -11,9 +11,9 @@ Pentru a realiza acest joc am folosit o multime(set) pentru a retine toate cuvin
 <li>Se insereaza cuvantul gasit in arborele binar de balansare(used_words) pentru cuvinte folosite
 <li>Se afiseaza cuvantul 
 <li>Se sterge cuvantul din arborele binar de balansare si si rebalanseaza arborele (level)
-<li>Se cere utilizatorului sa dea un cuvant care incepe cu ultimele 2 litere din cuvant si sa existe in multimea de cuvinte pana respecta aceasta cerinta sau in caz contrar se va scrie 'None' daca nu exista sau nu stie vreun cuvant care sa respecte cerintele
+<li>Se cere utilizatorului sa dea un cuvant care incepe cu ultimele 2 litere din cuvant si sa existe in multimea de cuvinte pana respecta aceasta cerinta sau in caz contrar se va scrie 'None' daca nu exista sau nu stie vreun cuvant care sa respecte cerintele si se reia de la punctul 1) in caz ca utilizatorul nu este 'fazan'
   </ul>
-<li>Daca nu exista un cuvant care sa respecte cerintele din lista de cuvinte din arborele binar de balansare(level) atunci computer este 'f' sau 'fa' etc. si se afiseaza pe ecran ce este computerul
+<li>Daca nu exista un cuvant care sa respecte cerintele din lista de cuvinte din arborele binar de balansare(level) atunci computer este 'f' sau 'fa' etc. si se afiseaza pe ecran ce este computerul si se reia de la punctul 1) daca calculatoul nu este 'fazan'
   </ul>
  <li>La final se afiseaza cine a castigat
  </ul>
